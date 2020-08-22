@@ -1,3 +1,4 @@
+import torch
 X = torch.Tensor([ 
 [1.50,0,0,],
 [1.48,-0.15,0.05,],
